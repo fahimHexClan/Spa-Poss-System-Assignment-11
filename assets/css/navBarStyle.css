@@ -2,7 +2,7 @@ body{
     overflow-x: hidden;
 }
 .gradient-text {
-    background: linear-gradient(65deg, #382CC5, #7C86DC);
+    background: linear-gradient(65deg, #382CC5, #b7bcca);
     -webkit-background-clip: text;
     color: transparent;
     font-weight: bold;
